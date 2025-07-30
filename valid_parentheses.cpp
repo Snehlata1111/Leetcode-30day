@@ -1,38 +1,3 @@
-Snehlata1111
-Leetcode-30day
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Files
-Go to file
-t
-stacks
-20-valid-parentheses.cpp
-README.md
-Leetcode-30day/stacks
-/20-valid-parentheses.cpp
-Snehlata1111
-Snehlata1111
-Leetcode 20
-c8a7fbd
- · 
-now
-Leetcode-30day/stacks
-/20-valid-parentheses.cpp
-
-Code
-
-Blame
-34 lines (33 loc) · 735 Bytes
-class Solution {
 class Solution {
 public:
     bool isValid(string s) {
